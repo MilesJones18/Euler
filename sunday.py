@@ -39,7 +39,7 @@ days = ['tues', 'wed', 'thur', 'fri', 'sat', 'sun', 'mon']
 
 
 # Iterates through each year and each month in the year, then checks if the first of that
-# month is a sunday, if it is it adds it to the count, and if its a leap year, it adds # %
+# month is a sunday, if it is it adds it to the count, and if its a leap year, it adds an
 # extra day.
 def sunCalc():
     day = 0
